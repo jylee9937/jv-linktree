@@ -1,0 +1,33 @@
+{
+  "profile": {
+    "name": "Jesus Village",
+    "bio": "예수마을교회에 오신 것을 환영합니다",
+    "avatar": "/avatar.png"
+  },
+  "links": [
+    {
+      "id": "1",
+      "title": "JesusVillage Worship",
+      "url": "https://www.youtube.com/@jesusvillage_worship/featured",
+      "icon": "youtube"
+    },
+    {
+      "id": "2",
+      "title": "청년부 인스타그램",
+      "url": "https://www.instagram.com/jesusvillage.young/",
+      "icon": "instagram"
+    },
+    {
+      "id": "3",
+      "title": "교회 인스타그램",
+      "url": "https://www.instagram.com/jesusvillage/",
+      "icon": "instagram"
+    }
+  ],
+  "map": {
+    "address": "경기도 수원시 장안구 덕영대로381번길 19-22",
+    "lat": 37.2944,
+    "lng": 127.0146,
+    "zoom": 16
+  }
+}
