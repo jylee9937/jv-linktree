@@ -22,6 +22,12 @@
       "title": "교회 인스타그램",
       "url": "https://www.instagram.com/jesusvillage/",
       "icon": "instagram"
+    },
+    {
+      "id": "4",
+      "title": "청년부 해피브릿지 신청",
+      "url": "https://forms.gle/AsqmMD9DEC6RAKvJ8",
+      "icon": "form"
     }
   ],
   "map": {
