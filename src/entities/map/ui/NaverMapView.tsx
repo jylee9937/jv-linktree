@@ -16,18 +16,16 @@ function MyMap({ config }: NaverMapViewProps) {
       defaultCenter={new navermaps.LatLng(config.lat, config.lng)}
       defaultZoom={config.zoom}
     >
-      <Marker
-        defaultPosition={new navermaps.LatLng(config.lat, config.lng)}
-      />
+      <Marker defaultPosition={new navermaps.LatLng(config.lat, config.lng)} />
     </NaverMap>
   );
 }
 
 export function NaverMapView({ config }: NaverMapViewProps) {
-  	const [isClient, setIsClient] = useState(false);
-    useEffect(() => { 
-      setIsClient(true);
-    }, []);
+  const [isClient, setIsClient] = useState(false);
+  useEffect(() => {
+    setIsClient(true);
+  }, []);
   return (
     <MapDiv
       style={{

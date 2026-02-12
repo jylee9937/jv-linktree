@@ -1,5 +1,5 @@
-import { Avatar } from "@/shared/ui/Avatar";
-import { ProfileData } from "../model/types";
+import { Avatar } from '@/shared/ui/Avatar';
+import { ProfileData } from '../model/types';
 
 interface ProfileHeaderProps {
   profile: ProfileData;

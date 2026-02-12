@@ -1,7 +1,7 @@
-import { ProfileWidget } from "@/widgets/profile/ui/ProfileWidget";
-import { LinkList } from "@/features/link-list/ui/LinkList";
-import { MapWidget } from "@/widgets/map/ui/MapWidget";
-import data from "@/shared/config/links.json";
+import { ProfileWidget } from '@/widgets/profile/ui/ProfileWidget';
+import { LinkList } from '@/features/link-list/ui/LinkList';
+import { MapWidget } from '@/widgets/map/ui/MapWidget';
+import data from '@/shared/config/links.json';
 
 export default function Home() {
   return (

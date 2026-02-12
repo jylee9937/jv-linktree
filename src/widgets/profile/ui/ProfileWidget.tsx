@@ -1,5 +1,5 @@
-import { ProfileHeader } from "@/entities/profile/ui/ProfileHeader";
-import { ProfileData } from "@/shared/types";
+import { ProfileHeader } from '@/entities/profile/ui/ProfileHeader';
+import { ProfileData } from '@/shared/types';
 
 interface ProfileWidgetProps {
   profile: ProfileData;

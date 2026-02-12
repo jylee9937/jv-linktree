@@ -41,6 +41,7 @@ npm install
 ### 3. Add Church Avatar/Logo
 
 Replace the placeholder file at `public/avatar.png` with your actual church logo or image:
+
 - Recommended size: 256x256px or larger
 - Format: PNG (with transparency if needed)
 - The image will be displayed as a circle (120px diameter)
@@ -48,11 +49,13 @@ Replace the placeholder file at `public/avatar.png` with your actual church logo
 ### 4. Update Content (Optional)
 
 If you need to update the links or church information, edit:
+
 ```
 src/shared/config/links.json
 ```
 
 You can modify:
+
 - Profile information (name, bio)
 - Social media links
 - Church address and map coordinates
@@ -142,6 +145,7 @@ src/
 ## Deployment
 
 This Next.js app can be deployed to:
+
 - **Vercel** (recommended): https://vercel.com
 - **Netlify**: https://netlify.com
 - Any Node.js hosting platform
