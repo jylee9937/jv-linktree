@@ -28,6 +28,12 @@
       "title": "청년부 해피브릿지 신청",
       "url": "https://forms.gle/AsqmMD9DEC6RAKvJ8",
       "icon": "form"
+    },
+    {
+      "id": "5",
+      "title": "예배 신청하기",
+      "url": "https://forms.gle/Yw8oFMaToH1bV1Hw8",
+      "icon": "form"
     }
   ],
   "map": {
